@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://hzb6979.github.io/</link>
+    <link>http://hzbhzbh/hzbhzbh.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Dec 2022 01:07:43 +0800</lastBuildDate>
     
-	<atom:link href="http://hzb6979.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hzbhzbh/hzbhzbh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://hzb6979.github.io/post/first/</link>
+      <link>http://hzbhzbh/hzbhzbh.github.io/post/first/</link>
       <pubDate>Tue, 13 Dec 2022 01:07:43 +0800</pubDate>
       
-      <guid>http://hzb6979.github.io/post/first/</guid>
+      <guid>http://hzbhzbh/hzbhzbh.github.io/post/first/</guid>
       <description>post first page content</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://hzb6979.github.io/about/</link>
+      <link>http://hzbhzbh/hzbhzbh.github.io/about/</link>
       <pubDate>Tue, 13 Dec 2022 01:07:24 +0800</pubDate>
       
-      <guid>http://hzb6979.github.io/about/</guid>
+      <guid>http://hzbhzbh/hzbhzbh.github.io/about/</guid>
       <description></description>
     </item>
     
